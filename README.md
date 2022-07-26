@@ -8,3 +8,5 @@ Personal project for encrypting and decrypting text using substitution, transpos
 7/22/22: Started creating the top appbar (pure looks, no design or functionality)
 
 7/24/22: Added items and their icons to top appbar
+
+7/25/22: Added top appbar to Main Activity, changed background tint and theme of top appbar
